@@ -17,6 +17,7 @@ function Promise(fn){
   fn(resolve);
 }
 
+//======================================================
 
 var fn = function(){
   setTimeout(function(){
